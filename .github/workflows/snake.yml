@@ -20,12 +20,11 @@ jobs:
 
     steps:
       - name: Gerar cobrinha
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=#90EE90&color_dots=#FFFFFF,#000000,#000000,#000000,#000000&color_background=#FFFFFF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
