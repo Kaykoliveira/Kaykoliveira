@@ -1,269 +1,203 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:00c896&text=Kayk%20Oliveira&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Tecnologia%20%7C%20Flutter%20%7C%20Dados%20%7C%20Suporte%20de%20TI&descSize=18&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Kaykoliveira">
+    <img src="https://komarev.com/ghpvc/?username=Kaykoliveira&label=Visualizações%20do%20perfil&color=00c896&style=flat-square" alt="Visualizações do perfil" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+---
+
+## 📌 Sobre Mim
+
+- 🎓 Cursando **Bacharelado em Sistemas de Informação**
+- 💻 Atualmente atuando na área de **Suporte de TI**
+- 🚀 Estudando e desenvolvendo projetos com **Flutter e Dart**
+- 📊 Experiência com **SQL, Python, Power BI e análise de dados**
+- ⚙️ Conhecimento em **APIs, ETL, N8N e automação de processos**
+- 🧠 Gosto de transformar problemas reais em soluções através da tecnologia
+- 🎯 Meu objetivo é evoluir cada vez mais na área de **Desenvolvimento de Software**
+
+---
+
+## 🧠 Áreas de Foco
+
+- 📱 Desenvolvimento com Flutter
+- 🎯 Dart
+- 🌐 Desenvolvimento Web
+- 🐍 Python
+- 🗄️ Banco de Dados
+- 📊 Análise de Dados
+- ⚙️ Automação de Processos
+- 🔌 APIs e Integrações
+
+---
+
+## 🛠️ Linguagens & Tecnologias
+
+<br>
+
+<h3 align="center">💻 Linguagens de Programação</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dart,python,js" height="50" />
+</div>
+
+<br>
+
+<h3 align="center">📱 Desenvolvimento</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,html,css,js" height="50" />
+</div>
+
+<br>
+
+<h3 align="center">🗄️ Banco de Dados</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="50" />
+</div>
+
+<br>
+
+<h3 align="center">📊 Dados & Automação</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="42" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="42" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ETL-00C896?style=for-the-badge" height="42" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="42" />
+</div>
+
+<br>
+
+<h3 align="center">⚙️ Ferramentas</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" height="50" />
+</div>
+
+<br>
+
+---
+
+## 📚 Tecnologias que estou estudando
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0f766e,100:06b6d4&text=KAYK%20OLIVEIRA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://img.shields.io/badge/Flutter-Estudando-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=%3E+INICIALIZANDO+SISTEMA...;%3E+DESENVOLVEDOR+EM+EVOLU%C3%87%C3%83O;%3E+FLUTTER+%7C+DART+%7C+PYTHON+%7C+SQL;%3E+DADOS+%7C+AUTOMA%C3%87%C3%83O+%7C+DESENVOLVIMENTO;%3E+BEM-VINDO+AO+MEU+PERFIL" alt="Typing Animation"/>
+<img src="https://img.shields.io/badge/Dart-Estudando-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Desenvolvimento_Web-Evoluindo-00C896?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🤖 KAYK SYSTEM
-
-```bash
-╔══════════════════════════════════════╗
-║          KAYK SYSTEM v1.0            ║
-╚══════════════════════════════════════╝
-
-> Inicializando perfil...
-
-████████████████████████ 100%
-
-[✓] Desenvolvedor detectado
-[✓] Ambiente configurado
-[✓] Modo aprendizado ativado
-[✓] Projetos carregados
-
-STATUS: ONLINE 🚀
-```
-
----
-
-## 👨‍💻 Sobre Mim
-
-```dart
-final kayk = {
-
-  "nome": "Kayk Oliveira",
-
-  "localizacao": "Brasil 🇧🇷",
-
-  "area": "Tecnologia e Desenvolvimento",
-
-  "foco_atual": [
-    "Flutter",
-    "Dart",
-    "Desenvolvimento de Software"
-  ],
-
-  "conhecimentos": [
-    "Python",
-    "SQL",
-    "Power BI",
-    "APIs",
-    "N8N",
-    "ETL",
-    "Linux"
-  ],
-
-  "objetivo":
-      "Transformar conhecimento em projetos reais 🚀"
-};
-```
-
-Sou apaixonado por tecnologia e atualmente estou evoluindo meus conhecimentos em **desenvolvimento de software**, principalmente com **Flutter e Dart**.
-
-Também possuo experiência com **Python, SQL, Power BI, automações, APIs e dados**.
-
-Meu objetivo é continuar aprendendo, desenvolvendo projetos reais e evoluindo cada vez mais como profissional de tecnologia.
-
----
-
-## ⚡ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,js,mysql,git,github,vscode,androidstudio,linux&perline=6"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/APIs-0891B2?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ETL-7C3AED?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🛠️ Ferramentas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</div>
-
----
-
-## 🚀 Projetos
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
+## 🚀 Projetos & Estudos
 
 ### 🧾 PDV Web
 
-Desenvolvimento de uma versão Web de um sistema de **Ponto de Venda**.
+> Desenvolvimento de uma versão Web de um sistema de Ponto de Venda.
 
-**Tecnologias**
+**Tecnologias:**
 
 `Flutter` `Dart` `Web` `UI`
 
-```text
-STATUS
-> EM DESENVOLVIMENTO...
-```
+---
 
-</td>
+### 📱 Estudos Flutter
 
-<td width="50%" valign="top">
+> Projetos desenvolvidos durante minha evolução em Flutter e Dart.
+
+**Tecnologias:**
+
+`Flutter` `Dart` `Widgets` `Material Design`
+
+---
 
 ### 🎮 Quarto Zero
 
-Jogo Web com temática tecnológica, suspense e elementos inspirados em interfaces de terminal.
+> Projeto de jogo Web com temática tecnológica e elementos de suspense.
 
-**Tecnologias**
+**Tecnologias:**
 
 `HTML` `CSS` `JavaScript`
 
-```text
-STATUS
-> PROTOTIPANDO...
-```
+---
 
-</td>
+### 🤖 Automação & Dados
 
-</tr>
+> Estudos e projetos envolvendo automação, tratamento de dados e integração entre sistemas.
 
-<tr>
+**Tecnologias:**
 
-<td width="50%" valign="top">
-
-### 📱 Flutter Lab
-
-Projetos e exercícios criados durante minha evolução em Flutter e Dart.
-
-**Tecnologias**
-
-`Flutter` `Dart` `Widgets`
-
-```text
-STATUS
-> ESTUDANDO...
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Dados & Automação
-
-Projetos envolvendo automação, tratamento de dados e integração entre sistemas.
-
-**Tecnologias**
-
-`Python` `SQL` `N8N` `APIs` `Power BI`
-
-```text
-STATUS
-> EVOLUINDO...
-```
-
-</td>
-
-</tr>
-</table>
+`Python` `SQL` `N8N` `APIs` `ETL` `Power BI`
 
 ---
 
 ## 🎯 Objetivos Atuais
 
-```bash
-kayk@developer:~/objetivos$ listar
+<p align="center">
 
-01 > Evoluir em Flutter
-02 > Dominar Dart
-03 > Criar aplicações reais
-04 > Evoluir em desenvolvimento Web
-05 > Aprimorar Python
-06 > Aprimorar SQL
-07 > Aprender Backend
-08 > Construir meu portfólio
-09 > Transformar ideias em projetos
+<img src="https://img.shields.io/badge/Flutter-ESTUDANDO-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-kayk@developer:~/objetivos$ status
+<img src="https://img.shields.io/badge/Dart-EVOLUINDO-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
-APRENDENDO      ███████████████████░
-PRATICANDO      ████████████████████
-DESENVOLVENDO   ██████████████████░░
-EVOLUINDO       ███████████████████░
+<img src="https://img.shields.io/badge/Projetos-CRIANDO-00C896?style=for-the-badge"/>
 
-> CONTINUE_CODANDO_
-```
+<img src="https://img.shields.io/badge/Backend-PRÓXIMO_PASSO-6C63FF?style=for-the-badge"/>
+
+</p>
+
+- 📱 Evoluir em **Flutter**
+- 🎯 Dominar **Dart**
+- 🧱 Aprender arquitetura de aplicações
+- 🌐 Evoluir no desenvolvimento Web
+- 🐍 Aprimorar Python
+- 🗄️ Aprimorar SQL
+- ⚙️ Criar projetos reais
+- 🚀 Evoluir para desenvolvimento profissional
 
 ---
 
-## 🐍 Minhas Contribuições
+## 🔗 Conecte-se Comigo
 
-<div align="center">
-  <img
-    width="100%"
-    alt="Cobrinha comendo minhas contribuições"
-    src="https://raw.githubusercontent.com/Kaykoliveira/Kaykoliveira/output/github-snake.gif"
-  />
-</div>
+<p align="center">
 
----
+  <a href="https://www.linkedin.com/in/kaykdeoliveira">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="45"/>
+  </a>&nbsp;&nbsp;
 
-## 🌐 Conecte-se Comigo
+  <a href="https://github.com/Kaykoliveira">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" alt="GitHub" width="45"/>
+  </a>&nbsp;&nbsp;
 
-<div align="center">
+  <a href="mailto:kaykdeoliveira21@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="45"/>
+  </a>
 
-<a href="https://github.com/Kaykoliveira">
-<img src="https://img.shields.io/badge/GitHub-Kaykoliveira-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kaykdeoliveira">
-<img src="https://img.shields.io/badge/LinkedIn-Kayk_Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kaykdeoliveira21@gmail.com">
-<img src="https://img.shields.io/badge/Email-Entrar_em_Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### 💻 `APRENDER • PRATICAR • DESENVOLVER • EVOLUIR`
+### 💚 Aprender • Desenvolver • Evoluir
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Kaykoliveira&label=VISITAS%20NO%20PERFIL&color=0891b2&style=for-the-badge"/>
-
-<br><br>
-
-**"Transformando conhecimento em código e código em evolução."**
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,50:0f766e,100:020617"/>
+<img src="https://img.shields.io/badge/KAYK.DEV-ONLINE-00C896?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
+
+<br>
