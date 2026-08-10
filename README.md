@@ -221,26 +221,11 @@ EVOLUINDO       ███████████████████░
 ## 🐍 Minhas Contribuições
 
 <div align="center">
-
-<picture>
-
-<source
-  media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/Kaykoliveira/Kaykoliveira/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/Kaykoliveira/Kaykoliveira/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-  alt="Cobrinha comendo as contribuições do GitHub"
-  src="https://raw.githubusercontent.com/Kaykoliveira/Kaykoliveira/output/github-contribution-grid-snake.svg"
-/>
-
-</picture>
-
+  <img
+    width="100%"
+    alt="Cobrinha comendo minhas contribuições"
+    src="https://raw.githubusercontent.com/Kaykoliveira/Kaykoliveira/output/github-snake.gif"
+  />
 </div>
 
 ---
